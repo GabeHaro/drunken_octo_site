@@ -1,0 +1,9 @@
+HEX		RGB		COLOUR		LOCATION
+521567		082 021	103	purple		menu
+ca0400		202 004 000	red		menu
+2f91f3		047 145 243	blue		menu
+ffa20d		255 162	013	yellow		menu
+738a00		115 138 000	green		menu
+1d1d1d		029 029 029	black		text
+e4e4e4		228 228 228	grey		background
+2295b1		034 149 177	blue		footer/links
